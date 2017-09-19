@@ -1,0 +1,65 @@
+html,body {
+	margin: 0%;
+	padding: 0;
+	height: auto;
+	width: 100%;
+}
+
+header {
+	background-color: blue;
+	height: 100px;
+
+
+}
+
+div{
+	display: inline-block;
+	height: 250px;
+	margin-top: 3%;
+
+}
+
+
+
+#topL {
+	background-color: pink;
+	float: left;
+	width: 48%
+
+
+}
+
+#topR {
+	background-color: red;
+	float: right;
+	width: 48%
+
+
+}
+
+#bottomL {
+	background-color: green;
+	float: left;
+	width: 30%;
+	
+}
+
+#bottomC {
+	background-color: orange;
+	margin-left: 5%;
+	width: 30%;
+
+
+
+}
+#bottomR {
+	background-color: violet;
+	float: right;
+	width: 30%
+}
+
+footer{
+	background-color: tan;
+	clear: both;
+	height: 100px
+}

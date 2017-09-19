@@ -1,0 +1,54 @@
+html,body {
+	margin: 0;
+	padding: 0;
+	height: auto;
+	width: 100%;
+}
+
+h1,h2,h3,h4,h5{
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: green;
+	height: 100px
+
+}
+
+
+div{
+	height: 250px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+
+#left {
+	background-color: blue;
+	float: left;
+	width: 20%;
+	margin-right: 12px;
+
+}
+
+#center {
+	background-color: pink;
+	float: left;
+	width: 60%;
+
+}
+
+#right {
+	background-color: purple;
+	float: right;
+	width: 18%;
+
+
+}
+
+footer{
+	background-color: red;
+	height: 100px;
+	clear: both;

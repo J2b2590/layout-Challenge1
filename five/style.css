@@ -1,0 +1,71 @@
+
+html,body {
+	margin: 0;
+	padding: 0;
+	height: auto;
+	width: 100%;
+}
+
+#top1{
+	float: right;
+	background-color: blue;
+	width: 10%;
+	margin-right: 60px;
+	margin-bottom: 40px
+}
+
+#top2{
+	float: right;
+	background-color: red;
+	width: 10%;
+	margin-right: 20px;
+}
+
+#top3{
+	float: right;
+	background-color: purple;
+	width: 10%;
+	margin-right: 20px;
+}
+#top4{
+	float: right;
+	background-color: orange;
+	width: 10%;
+	margin-right: 20px; 
+}
+#center1{
+	background-color: green;
+	
+
+}
+
+#center2{
+	background-color: blue
+
+}
+
+#center3{
+	background-color: red;
+}
+
+#center4{
+	background-color: purple;
+}
+
+#bottom1{
+	background-color: blue;
+
+}
+
+#bottom2{
+	background-color: red;
+
+}
+
+#bottom3{
+	background-color: green;
+}
+
+#bottom4{
+	background-color: purple;
+}
